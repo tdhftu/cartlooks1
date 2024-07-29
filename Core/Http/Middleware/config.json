@@ -1,0 +1,16 @@
+{
+    "middleWares": [
+        {
+            "group": "web",
+            "path": "\\Core\\Http\\Middleware\\Language"
+        },
+        {
+            "group": "api",
+            "path": "\\Core\\Http\\Middleware\\SetApiRequestLanguage"
+        },
+        {
+            "alias": "menu.maintain",
+            "path": "\\Core\\Http\\Middleware\\MenuMaintain"
+        }
+    ]
+}

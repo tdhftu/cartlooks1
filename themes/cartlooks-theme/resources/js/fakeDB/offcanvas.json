@@ -1,0 +1,32 @@
+{
+    "menuItems": [
+        {
+            "name": "Dashboard",
+            "href": "/dashboard"
+        },
+        {
+            "name": "Purchase History",
+            "href": "/dashboard/purchase-history"
+        },
+        {
+            "name": "Wishlist",
+            "href": "/dashboard/wishlist"
+        },
+        {
+            "name": "Address",
+            "href": "/dashboard/address"
+        },
+        {
+            "name": "Refund Requests",
+            "href": "/dashboard/refund/requests"
+        },
+        {
+            "name": "My Wallet",
+            "href": "/dashboard/wallet"
+        },
+        {
+            "name": "Manage Account",
+            "href": "/dashboard/manage-account"
+        }
+    ]
+}

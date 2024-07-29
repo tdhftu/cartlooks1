@@ -1,0 +1,40 @@
+{
+    "name": "CartLooks",
+    "short_name": "CartLooks",
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#ef2543",
+    "background_color": "#ef2543",
+    "icons": [
+        {
+            "src": "/public/appIcons/icon_48x48.png",
+            "type": "image/png",
+            "sizes": "48x48"
+        },
+        {
+            "src": "/public/appIcons/icon_72x72.png",
+            "type": "image/png",
+            "sizes": "72x72"
+        },
+        {
+            "src": "/public/appIcons/icon_96x96.png",
+            "type": "image/png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "/public/appIcons/icon_144x144.png",
+            "type": "image/png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "/public/appIcons/icon_192x192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/public/appIcons/icon_512x512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}

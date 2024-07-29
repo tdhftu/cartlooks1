@@ -1,0 +1,17 @@
+/node_modules
+/public/node_modules
+/public/hot
+/vendor
+.env
+.env.backup
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+/.idea
+/.vscode
+/themes/cartlooks-theme/node_modules
+/themes/cartlooks-theme/public/js
+/storage
+/public/uploaded

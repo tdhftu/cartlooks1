@@ -1,0 +1,78 @@
+@import url('../../resources/js/assets/sass/00-abstracts/_01-variables.scss');
+
+.comment-author-image img{
+    height: 65px;
+    width: 65px;
+}
+
+.tl-pagination {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: end;
+    gap: 5px;
+}
+
+.tl-pagination li {
+    display: inline
+}
+
+.tl-pagination li a {
+    color: #000;
+    background-color: white;
+    border: 1px solid white;
+
+    width: 45px;
+    height: 45px;
+    border-radius: 50% !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    -webkit-transition: background-color 0.3s;
+    transition: background-color 0.3s
+}
+
+/* Active and Hoverable Pagination */
+.tl-pagination li a {
+    -webkit-transition: background-color 0.3s;
+    transition: background-color 0.3s
+}
+
+.tl-pagination li a.active {
+    color: #fff;
+    background-color: var(--mainC);
+    border: 1px solid var(--mainC);
+}
+
+.tl-pagination li a:hover:not(.active) {
+    color: #fff;
+    background-color: var(--mainC);
+    border: 1px solid var(--mainC);
+}
+
+.title-excerpt{
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+    overflow: hidden;
+}
+
+.details-excerpt{
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+}
+
+.footer-top h3{
+    color: #fff;
+}
+
+.site-title a:hover{
+    color: #ddd;
+}
+
+.post-details .entry-header .entry-title {
+    font-size: 30px;
+}

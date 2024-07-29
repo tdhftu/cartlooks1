@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="45.001" viewBox="0 0 26 45.001">
+  <g id="best-seller-badge" transform="translate(-610.002 -1396.5)">
+    <path id="Icon_open-badge" data-name="Icon open-badge" d="M4.5,21.645v18l7-6.21,7,6.21v-18a20.534,20.534,0,0,1-7,1.37A20.534,20.534,0,0,1,4.5,21.645Z" transform="translate(611.502 1401.856)" fill="#24bcff"/>
+    <circle id="Ellipse_10" data-name="Ellipse 10" cx="13" cy="13" r="13" transform="translate(610.002 1396.5)" fill="#24bcff"/>
+    <path id="Icon_awesome-star-of-life" data-name="Icon awesome-star-of-life" d="M13.767,9.145,9.8,7l3.965-2.145a.423.423,0,0,0,.171-.6L13,2.742a.485.485,0,0,0-.638-.16L8.4,4.726V.438A.453.453,0,0,0,7.934,0H6.066A.453.453,0,0,0,5.6.438V4.727L1.635,2.582A.485.485,0,0,0,1,2.742L.063,4.258a.423.423,0,0,0,.171.6L4.2,7,.234,9.145a.423.423,0,0,0-.171.6L1,11.258a.485.485,0,0,0,.638.16L5.6,9.274v4.289A.453.453,0,0,0,6.066,14H7.934a.453.453,0,0,0,.467-.437V9.273l3.965,2.145a.484.484,0,0,0,.638-.16l.934-1.516A.423.423,0,0,0,13.767,9.145Z" transform="translate(616.002 1402.5)" fill="#fff"/>
+  </g>
+</svg>

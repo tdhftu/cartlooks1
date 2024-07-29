@@ -1,0 +1,1 @@
+{"name":"Multivendor","location":"multivendor-cartlooks","namespace":"Plugin\\Multivendor\\","version":"1.0.0","author":"Themelooks","url":"http:\/\/www.themelooks.com\/","description":"Multivendor plugin of Cart Looks","is_verified":true,"middleWares":[{"alias":"auth.seller","path":"\\Plugin\\Multivendor\\Http\\Middleware\\SellerAuthenticate"}]}

@@ -1,0 +1,9 @@
+{
+    "name": "CartLooks",
+    "location": "cartlooks-theme",
+    "namespace": "Theme\\CartLooksTheme\\",
+    "version": "1.0.0",
+    "author": "Themelooks",
+    "url": "http://www.themelooks.com/",
+    "description": "Default theme of Cart Looks"
+}
